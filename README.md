@@ -1,16 +1,7 @@
 # 🌍 Real-Time Location Tracker
 
-![logo](https://raw.githubusercontent.com/github/explore/main/topics/gps/gps.png)
 
 *Real-time GPS tracking using Node.js, Express, Socket.IO, and Leaflet.js.*
-
----
-
-## 🎞️ Live Demo Preview (Mock Animation)
-
-![preview](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/map.svg)
-
-*This is an animated SVG mock preview. You can later replace it with a real GIF.*
 
 ---
 
