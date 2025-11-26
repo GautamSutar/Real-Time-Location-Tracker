@@ -1,25 +1,16 @@
-````markdown
 # 🌍 Real-Time Location Tracker
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/gps/gps.png" height="120" />
-</p>
+![logo](https://raw.githubusercontent.com/github/explore/main/topics/gps/gps.png)
 
-<p align="center">
-  <em>Real-time GPS tracking using Node.js, Express, Socket.IO, and Leaflet.js</em>
-</p>
+*Real-time GPS tracking using Node.js, Express, Socket.IO, and Leaflet.js.*
 
 ---
 
 ## 🎞️ Live Demo Preview (Mock Animation)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/map.svg" width="120" />
-</p>
+![preview](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/map.svg)
 
-<p align="center">
-  <em>This is an animated SVG mock preview. You can later replace it with a real GIF.</em>
-</p>
+*This is an animated SVG mock preview. You can later replace it with a real GIF.*
 
 ---
 
@@ -76,8 +67,6 @@ Add inside `<body>`:
 ---
 
 ## 📂 Folder Structure
-
-Your current GitHub project structure:
 
 ```
 📁 Real-Time-Location-Tracker/
@@ -212,4 +201,6 @@ server.listen(3000, () => console.log("Server running on port 3000"));
 * Mobile app version (React Native)
 
 ---
+
+```
 
